@@ -2,7 +2,9 @@
  DBMS Project
 
 # Frontend Tech Stack
- HTML and CSS
+ HTML</br>
+ CSS
  
 # Backend Tech Stack
- PHP and MySQL
+ PHP</br>
+ MySQL
