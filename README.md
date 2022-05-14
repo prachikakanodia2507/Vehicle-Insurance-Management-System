@@ -1,9 +1,8 @@
-# Vehicle Insurnace Management System
+# Vehicle-Insurnace-Management-System
+ DBMS Project
 
-# Frontend :- HTML and CSS
-# Backend :- PHP and MySQL
-
-
-
-HAPPY LEARNING!! ✌😇
-
+# Frontend Tech Stack
+ HTML and CSS
+ 
+# Backend Tech Stack
+ PHP and MySQL
